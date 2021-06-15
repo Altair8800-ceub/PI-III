@@ -1,2 +1,15 @@
-# PI-III
-Repositório criado com o fim de armazenar a avaliação final da matéria de Projeto Integrador III
+# Prova 3
+Última avaliação da matéria de Projeto Integrador III
+## Integrantes:
+
+
+Altair Correia de Azevedo
+
+
+Arthur Souza
+
+Felipe Lima
+
+Gustavo Gomes de Jesus
+
+Vinícius Carvalho
