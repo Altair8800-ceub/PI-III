@@ -3,13 +3,8 @@
 ## Integrantes:
 
 
-Altair Correia de Azevedo
-
-
-Arthur Souza
-
-Felipe Lima
-
-Gustavo Gomes de Jesus
-
-Vinícius Carvalho
+- [Altair](https://github.com/altair-correia)
+- [Arthur](https://github.com/oArthur)
+- [Felipe](https://github.com/felipellima83)
+- [Gustavo](https://github.com/GustavoGJesus)
+- [Vinicius](https://github.com/vinicius-carv)
